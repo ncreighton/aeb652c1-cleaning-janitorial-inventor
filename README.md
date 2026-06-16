@@ -1,2 +1,28 @@
-# aeb652c1-cleaning-janitorial-inventor
-Tired of running out of floor cleaner mid-job or losing track of which vacuum needs repairs? The chaos of sticky notes and spreadsheets costs you time and money.  This Notion template centralizes all your cleaning chemicals, tools, and equipment into one searchable database. Eliminate shortages, reduce equipment downtime, and automate low-stock ale
+# Cleaning & Janitorial Inventory and Asset Management Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x24gz12D2k43lmavOd0j44)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x24gz12D2k43lmavOd0j44)
+
